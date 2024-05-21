@@ -1,0 +1,6 @@
+{
+  "name": "LB Coin",
+  "symbol": "LB Coin",
+  "uri": "https://github.com/emedmike/LBcoin/blob/main/LBCoin_Token.png",  
+  "seller_fee_basis_points": 0  // Set to 0 if no seller fees
+}
